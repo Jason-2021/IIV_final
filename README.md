@@ -7,10 +7,14 @@ Route Planning Algorithm: A Survey and Implementation
 
 ### Environment
 python=3.11
-````pip install -r requirements.txt````
+```
+pip install -r requirements.txt
+```
 
 #### Run code
-````python experiment.py````
+```
+python experiment.py
+```
 
 ### Reference
 - Paper: Autonomous land vehicle path planning algorithm based on improved heuristic function of A-Star
