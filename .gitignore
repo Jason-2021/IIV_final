@@ -1,0 +1,9 @@
+**/__pycache__/
+record.txt
+*.png
+!/image/map2_4c_dj.png
+!/image/map2_4c_as.png
+!/image/map2_original_compare.png
+!/image/map2_SMOOTH_compare.png
+!/image/map3_original_compare.png
+!/image/map3_SMOOTH_compare.png
