@@ -1,5 +1,5 @@
 # Introduction to Intelligent Vehicles Final Project
-***
+
 112-2 NTU CSIE5452 Introduction to Intelligent Vehicles
 
 ### Project title
